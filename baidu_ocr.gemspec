@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = 'baidu-ocr'
+  s.name = 'baidu_ocr'
   s.version = '1.0.0'
   s.date = '2017-06-12'
   s.summary = 'baidu_ocr'
