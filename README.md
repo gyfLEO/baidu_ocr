@@ -17,7 +17,7 @@ sudo gem install *.gem
 
 ## Get Started
 ```ruby
-require 'baidu-ocr'
+require 'baidu_ocr'
 req = BaiduOcr.new '/tmp/0.jpg', 'YOUR_ACCESS_TOKEN'
 puts req.info_deal
 ```
